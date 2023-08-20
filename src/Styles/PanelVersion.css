@@ -1,0 +1,52 @@
+#AddNewbutton{
+    float: right;
+}
+#kyatt{
+     background-color: rgb(238, 245, 245);
+      font-size: 15px;
+      padding: 10px;
+      text-align: center;
+}
+#container1{
+    margin-top: 30px;
+    background-color: #eff7fe;;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#version-row-icon{
+   height: 20px; 
+
+}
+
+#current_version{
+    color: rgb(157, 161, 161);
+    font-size: 15px;
+    margin-left: 2px;
+
+}
+
+#version{
+   font-size:18px ;
+    font-weight: bold;
+}
+#name{
+    font-weight: bold;
+    font-size:18px ;
+}
+.font{
+    font-weight: bold;
+}
+#row2{
+ margin-top: 20px ;
+}
+.not{
+    font-weight: bold; 
+}
+#container2{
+
+    margin-top: 25px;
+}
+#version-row-icon2{
+    margin-right: 15px;
+
+}
